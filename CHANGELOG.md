@@ -10,6 +10,7 @@
 
 ### Bug Fixes
 
+-   [`33e1dc1`](https://github.com/stdlib-js/stdlib/commit/33e1dc142e433a91b6cad99f89dca3255c56b81f) - use correct variable in interpolation
 -   [`1802636`](https://github.com/stdlib-js/stdlib/commit/180263640132ce8b6d5a1b31f74bf84399d2236a) - fix comparison
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`33e1dc1`](https://github.com/stdlib-js/stdlib/commit/33e1dc142e433a91b6cad99f89dca3255c56b81f) - **fix:** use correct variable in interpolation _(by Athan Reines)_
 -   [`1802636`](https://github.com/stdlib-js/stdlib/commit/180263640132ce8b6d5a1b31f74bf84399d2236a) - **fix:** fix comparison _(by Athan Reines)_
 -   [`6d2d900`](https://github.com/stdlib-js/stdlib/commit/6d2d90074716499c606c3e446afef21e58f71ba5) - **bench:** refactor to use string interpolation in `blas/base/sgemv` [(#10450)](https://github.com/stdlib-js/stdlib/pull/10450) _(by Lokesh Ranjan)_
 
