@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-19)
+## Unreleased (2026-06-01)
 
 <section class="bug-fixes">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`10555a8`](https://github.com/stdlib-js/stdlib/commit/10555a861a68cf5761a293e2b9c7e2b9c71b84a9) - **refactor:** replace `isMatrixTranspose` with `resolveStr` in `blas/base/sgemv` [(#12421)](https://github.com/stdlib-js/stdlib/pull/12421) _(by Kaustubh Patange)_
 -   [`9559de0`](https://github.com/stdlib-js/stdlib/commit/9559de093ed0c43ba65c7b6829be61a5967cd2f4) - **chore:** propagate typo and doc-note fixes across `blas` sibling packages [(#12202)](https://github.com/stdlib-js/stdlib/pull/12202) _(by Philipp Burckhardt)_
 -   [`33e1dc1`](https://github.com/stdlib-js/stdlib/commit/33e1dc142e433a91b6cad99f89dca3255c56b81f) - **fix:** use correct variable in interpolation _(by Athan Reines)_
 -   [`1802636`](https://github.com/stdlib-js/stdlib/commit/180263640132ce8b6d5a1b31f74bf84399d2236a) - **fix:** fix comparison _(by Athan Reines)_
@@ -38,9 +39,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kaustubh Patange
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 

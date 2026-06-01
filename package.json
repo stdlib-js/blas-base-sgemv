@@ -43,9 +43,9 @@
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.3",
     "@stdlib/blas-base-assert-is-layout": "^0.0.3",
-    "@stdlib/blas-base-assert-is-transpose-operation": "^0.1.1",
     "@stdlib/blas-base-shared": "^0.2.1",
     "@stdlib/blas-base-sscal": "^0.3.1",
+    "@stdlib/blas-base-transpose-operation-resolve-str": "^0.1.1",
     "@stdlib/blas-base-xerbla": "^0.0.3",
     "@stdlib/blas-ext-base-sfill": "^0.3.1",
     "@stdlib/math-base-special-fast-max": "^0.3.1",
@@ -70,6 +70,7 @@
   "devDependencies": {
     "@stdlib/array-float32": "^0.2.3",
     "@stdlib/assert-is-browser": "^0.2.3",
+    "@stdlib/blas-base-assert-is-transpose-operation": "^0.1.1",
     "@stdlib/blas-base-layout-resolve-enum": "^0.0.3",
     "@stdlib/blas-base-transpose-operation-resolve-enum": "^0.0.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.3",
